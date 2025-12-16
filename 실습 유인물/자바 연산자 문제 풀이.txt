@@ -1,0 +1,35 @@
+제외 : 3, 10
+
+2.
+ 1) int age;
+ 2) long money = 10L; //L은 정수의 크기가 int 보다 클 때 무조건 붙여야 함.
+ 3) double d = 0.25;
+ 4) float f = 0.24F;
+ 5) String name = "이름";
+
+4.
+ 1) a >= b
+ 2) (a < b) && (a > c)
+ 3) (a + 3) != 10
+ 4) (a > 10) || (a == b)
+
+5.
+ a = 11 b = 19 z = 31
+
+6.
+ #1) pencils / students
+ #2) pencils % students
+
+7.
+ 1) a = a + 1;
+ 2) c = c * d;
+ 3) d = d + 1;
+     d += 1;
+     ++d;
+ 4) c = c - e;
+
+8.
+ result = 3.0
+
+9.
+ System.out.println("result = " + (double) a / b);
