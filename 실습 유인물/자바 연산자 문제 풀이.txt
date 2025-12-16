@@ -34,4 +34,4 @@
  result = 3.0
 
 9.
- System.out.println("result = " + (double) a / b);
+ System.out.println("result = " + (double)a / b);
